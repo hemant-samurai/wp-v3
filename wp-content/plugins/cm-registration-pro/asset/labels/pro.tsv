@@ -1,0 +1,13 @@
+user_profile_edit_form_header	Edit profile	User's profile edit form header.	User profile
+user_profile_display_name	My display name:	Field for user's display name.	User profile
+user_profile_email	Email address:	User's email.	User profile
+user_profile_website	Website URL:	User's website.	User profile
+user_profile_description	About me:	User's description.	User profile
+user_profile_save_btn	Save	Save button.	User profile
+
+social_login_btn_prefix	Login with	Login button text prefix.	Social login
+social_login_register_btn_prefix	Register with	Register button text prefix.	Social login
+cmreg_social_login_error_generic	Sorry, couldn't login with the Social Login feature.	Generic error.	Social login
+cmreg_social_login_error_registration	Sorry, couldn't create a user account.	Registration error.	Social login
+cmreg_social_login_error_unknown_user	User with this email address doesn't exists. Please register an account first.	Unknown user login error.	Social login
+cmreg_social_login_error_account_inactive	This user account is inactive.	Inactive user account error.	Social login

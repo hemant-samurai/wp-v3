@@ -1,0 +1,12 @@
+.cmreg-pagination, .cmreg-pagination li {list-style: none; margin: 0; padding: 0;}
+.cmreg-pagination li {display: inline-block;}
+.cmreg-pagination a {display: inline-block; padding: 0.5em 1em; font-size: 14px; text-decoration: none; font-weight: bold; background: #f0f0f0; border: 1px solid #cccccc; color: #777777;}
+.cmreg-pagination a:hover {color: black; border-color: #999999;}
+.cmreg-pagination .current-page a {background: white; color: black;}
+
+.cmreg-block {background: white; padding: 1em; width: 600px; border: solid 1px #dddddd; margin: 2em 2em 2em 0; float: left;}
+.cmreg-block h3 {margin-top: 0 !important;}
+
+.cmreg-admin-notice {position: relative; padding-right: 30px !important;}
+.cmreg-admin-notice .cmreg-dismiss {position: absolute; top: 10px; right: 10px; text-decoration: none; background: #aaaaaa; color: white;
+	border-radius: 15px 15px; width: 15px; height: 15px; text-align: center; font-size: 15px; font-weight: bold; line-height: 15px;}

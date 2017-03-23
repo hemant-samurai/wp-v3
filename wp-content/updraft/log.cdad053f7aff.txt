@@ -1,0 +1,240 @@
+0000.000 (0) Opened log file at time: Tue, 10 Jan 2017 20:02:14 +0000 on http://54.236.87.96
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.30 WP: 4.7 PHP: 5.4.16 (apache2handler, Linux ip-172-31-54-50.ec2.internal 3.10.0-327.10.1.el7.x86_64 #1 SMP Tue Feb 16 17:03:50 UTC 2016 x86_64) MySQL: 5.5.52 WPLANG: en_US Server: Apache/2.4.6 (CentOS) PHP/5.4.16 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 36.5M | 36.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.027 (0) Free space on disk containing Updraft's temporary directory: 6399.9 MB
+0000.116 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.144 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.191 (0) Set semaphore last lock (fd) time to 2017-01-10 20:02:14
+0000.203 (0) Semaphore lock (fd) complete
+0000.215 (0) Backup run: resumption=0, nonce=cdad053f7aff, begun at=1484078534 (0s ago), job type=backup
+0000.217 (0) Scheduling a resumption (1) after 300 seconds (1484078834) in case this run gets aborted
+0000.228 (0) Checking if we have a zip executable available
+0000.230 (0) Creation of backups of directories: beginning
+0000.235 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.057 (0) Total entities for the zip file: 984 directories, 5903 files (0 skipped as non-modified), 76.2 MB
+0001.074 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.080 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.086 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.094 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.101 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.103 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 5903 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.712 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 600 files added (on-disk size: 1973.8 KB)
+0001.721 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 700 files added (on-disk size: 1973.8 KB)
+0001.730 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 800 files added (on-disk size: 1973.8 KB)
+0001.739 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 900 files added (on-disk size: 1973.8 KB)
+0001.748 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1000 files added (on-disk size: 1973.8 KB)
+0001.750 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 MB, 5903 files batched, 501 (1002) added so far); re-opening (prior size: 1973.8 KB)
+0002.149 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1100 files added (on-disk size: 2593.1 KB)
+0002.160 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1200 files added (on-disk size: 2593.1 KB)
+0002.170 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1300 files added (on-disk size: 2593.1 KB)
+0002.181 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1400 files added (on-disk size: 2593.1 KB)
+0002.193 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1500 files added (on-disk size: 2593.1 KB)
+0002.194 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.4 MB, 5903 files batched, 501 (1503) added so far); re-opening (prior size: 2593.1 KB)
+0002.542 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1600 files added (on-disk size: 3033 KB)
+0002.553 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1700 files added (on-disk size: 3033 KB)
+0002.565 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1800 files added (on-disk size: 3033 KB)
+0002.582 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 1900 files added (on-disk size: 3033 KB)
+0002.593 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2000 files added (on-disk size: 3033 KB)
+0002.595 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2 MB, 5903 files batched, 501 (2004) added so far); re-opening (prior size: 3033 KB)
+0003.001 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2100 files added (on-disk size: 3715.8 KB)
+0003.019 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2200 files added (on-disk size: 3715.8 KB)
+0003.031 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2300 files added (on-disk size: 3715.8 KB)
+0003.042 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2400 files added (on-disk size: 3715.8 KB)
+0003.054 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2500 files added (on-disk size: 3715.8 KB)
+0003.058 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.1 MB, 5903 files batched, 501 (2505) added so far); re-opening (prior size: 3715.8 KB)
+0003.872 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2600 files added (on-disk size: 4818.8 KB)
+0003.884 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2700 files added (on-disk size: 4818.8 KB)
+0003.896 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2800 files added (on-disk size: 4818.8 KB)
+0003.915 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 2900 files added (on-disk size: 4818.8 KB)
+0003.927 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3000 files added (on-disk size: 4818.8 KB)
+0003.929 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 MB, 5903 files batched, 501 (3006) added so far); re-opening (prior size: 4818.8 KB)
+0004.694 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3100 files added (on-disk size: 8046.8 KB)
+0004.707 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3200 files added (on-disk size: 8046.8 KB)
+0004.720 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3300 files added (on-disk size: 8046.8 KB)
+0004.732 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3400 files added (on-disk size: 8046.8 KB)
+0004.746 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3500 files added (on-disk size: 8046.8 KB)
+0004.756 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.7 MB, 5903 files batched, 501 (3507) added so far); re-opening (prior size: 8046.8 KB)
+0007.240 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3600 files added (on-disk size: 12793.6 KB)
+0007.255 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3700 files added (on-disk size: 12793.6 KB)
+0007.278 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3800 files added (on-disk size: 12793.6 KB)
+0007.294 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 3900 files added (on-disk size: 12793.6 KB)
+0007.309 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4000 files added (on-disk size: 12793.6 KB)
+0007.311 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.7 MB, 5903 files batched, 501 (4008) added so far); re-opening (prior size: 12793.6 KB)
+0007.925 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4100 files added (on-disk size: 14036.4 KB)
+0007.940 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4200 files added (on-disk size: 14036.4 KB)
+0007.956 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4300 files added (on-disk size: 14036.4 KB)
+0007.971 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4400 files added (on-disk size: 14036.4 KB)
+0007.987 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4500 files added (on-disk size: 14036.4 KB)
+0007.990 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (13.1 MB, 5903 files batched, 501 (4509) added so far); re-opening (prior size: 14036.4 KB)
+0009.973 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4600 files added (on-disk size: 18251.4 KB)
+0009.989 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4700 files added (on-disk size: 18251.4 KB)
+0010.006 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4800 files added (on-disk size: 18251.4 KB)
+0010.022 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 4900 files added (on-disk size: 18251.4 KB)
+0010.038 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5000 files added (on-disk size: 18251.4 KB)
+0010.044 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 5903 files batched, 501 (5010) added so far); re-opening (prior size: 18251.4 KB)
+0011.286 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5100 files added (on-disk size: 20345 KB)
+0011.325 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5200 files added (on-disk size: 20345 KB)
+0011.374 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5300 files added (on-disk size: 20345 KB)
+0011.405 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5400 files added (on-disk size: 20345 KB)
+0011.445 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5500 files added (on-disk size: 20345 KB)
+0011.456 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.1 MB, 5903 files batched, 501 (5511) added so far); re-opening (prior size: 20345 KB)
+0012.962 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5600 files added (on-disk size: 23918.2 KB)
+0012.982 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5700 files added (on-disk size: 23918.2 KB)
+0013.001 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5800 files added (on-disk size: 23918.2 KB)
+0013.025 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip.tmp: 5900 files added (on-disk size: 23918.2 KB)
+0014.300 (0) Created plugins zip (0) - 24556.2 KB in 14.1 s (1746.1 KB/s) (SHA1 checksum: 9952287c8f4b4cb206e14294e32e9bde19aad1f3)
+0014.320 (0) Beginning creation of dump of themes (split every: 400 MB)
+0014.433 (0) Total entities for the zip file: 73 directories, 642 files (0 skipped as non-modified), 28.1 MB
+0014.437 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.441 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0014.444 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0014.449 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0014.453 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0014.461 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20 MB, 642 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0017.082 (0) Zip: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip.tmp: 600 files added (on-disk size: 7214.9 KB)
+0017.886 (0) Created themes zip (0) - 9165.6 KB in 3.6 s (2578.6 KB/s) (SHA1 checksum: e0575b0fe3b8fc71b515a6f59191abdf92dbab22)
+0017.889 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0017.891 (0) Looking for candidates to back up in: /var/www/html/wp-content/uploads
+0017.892 (0) finding files: 2016: adding to list (1)
+0017.894 (0) finding files: et_temp: adding to list (2)
+0017.895 (0) finding files: userpro: adding to list (3)
+0017.896 (0) finding files: bfi_thumb: adding to list (4)
+0017.897 (0) finding files: 2017: adding to list (5)
+0017.898 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0017.906 (0) Total entities for the zip file: 13 directories, 77 files (0 skipped as non-modified), 11.3 MB
+0018.699 (0) Created uploads zip (0) - 11127.9 KB in 0.8 s (13943.8 KB/s) (SHA1 checksum: 51c486254025689d1474ade4e1a0af8aa188f5d2)
+0018.727 (0) Beginning backup of other directories found in the content directory (index: 0)
+0018.738 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0018.749 (0) Looking for candidates to back up in: /var/www/html/wp-content
+0018.760 (0) finding files: plugins: skipping: this is the plugins directory
+0018.771 (0) finding files: themes: skipping: this is the themes directory
+0018.782 (0) finding files: index.php: adding to list (1)
+0018.804 (0) finding files: uploads: skipping: this is the uploads directory
+0018.820 (0) finding files: upgrade: skipping: excluded by options
+0018.831 (0) finding files: as3b_backups: skipping: excluded by options (glob)
+0018.836 (0) finding files: updraft: skipping: this is the updraft directory
+0018.867 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0018.896 (0) Created others zip (0) - 0.1 KB in 0 s (2.9 KB/s) (SHA1 checksum: ab848d4833e149390e896d5fa2cc112b3db69e46)
+0018.910 (0) Saving backup status to database (elements: 8)
+0018.913 (0) Beginning creation of database dump (WordPress DB)
+0018.917 (0) Testing: /usr/bin/mysqldump
+0018.984 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1187 bytes total)
+0018.986 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0019.008 (0) Table wp_options: Total expected rows (approximate): 904
+0019.056 (0) Table wp_options: Total rows added: 262 in 0.05 seconds
+0019.059 (0) Table wp_options: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_options.table.gz - 173.2 KB)
+0019.064 (0) Table wp_users: Total expected rows (approximate): 4
+0019.067 (0) Table wp_users: Total rows added: 4 in 0.00 seconds
+0019.068 (0) Table wp_users: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_users.table.gz - 0.7 KB)
+0019.074 (0) Table wp_usermeta: Total expected rows (approximate): 270
+0019.080 (0) Table wp_usermeta: Total rows added: 233 in 0.00 seconds
+0019.081 (0) Table wp_usermeta: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_usermeta.table.gz - 6 KB)
+0019.098 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0019.099 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0019.101 (0) Table wp_commentmeta: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0019.106 (0) Table wp_comments: Total expected rows (approximate): 1
+0019.108 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0019.110 (0) Table wp_comments: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_comments.table.gz - 0.7 KB)
+0019.116 (0) Table wp_links: Total expected rows (approximate): 0
+0019.118 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0019.119 (0) Table wp_links: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_links.table.gz - 0.4 KB)
+0019.126 (0) Table wp_postmeta: Total expected rows (approximate): 1473
+0019.156 (0) Table wp_postmeta: Total rows added: 1966 in 0.03 seconds
+0019.158 (0) Table wp_postmeta: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_postmeta.table.gz - 18.4 KB)
+0019.164 (0) Table wp_posts: Total expected rows (approximate): 1761
+0019.450 (0) Table wp_posts: Total rows added: 1037 in 0.29 seconds
+0019.457 (0) Table wp_posts: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_posts.table.gz - 682.8 KB)
+0019.463 (0) Table wp_term_relationships: Total expected rows (approximate): 72
+0019.466 (0) Table wp_term_relationships: Total rows added: 72 in 0.00 seconds
+0019.467 (0) Table wp_term_relationships: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0019.482 (0) Table wp_term_taxonomy: Total expected rows (approximate): 10
+0019.484 (0) Table wp_term_taxonomy: Total rows added: 10 in 0.00 seconds
+0019.485 (0) Table wp_term_taxonomy: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0019.490 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0019.492 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0019.493 (0) Table wp_termmeta: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_termmeta.table.gz - 0.4 KB)
+0019.499 (0) Table wp_terms: Total expected rows (approximate): 10
+0019.501 (0) Table wp_terms: Total rows added: 10 in 0.00 seconds
+0019.503 (0) Table wp_terms: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_terms.table.gz - 0.5 KB)
+0019.508 (0) Table wp_wpdatacharts: Total expected rows (approximate): 0
+0019.510 (0) Table wp_wpdatacharts: Total rows added: 0 in 0.00 seconds
+0019.512 (0) Table wp_wpdatacharts: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_wpdatacharts.table.gz - 0.3 KB)
+0019.517 (0) Table wp_wpdatatables: Total expected rows (approximate): 1
+0019.520 (0) Table wp_wpdatatables: Total rows added: 1 in 0.00 seconds
+0019.521 (0) Table wp_wpdatatables: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_wpdatatables.table.gz - 0.7 KB)
+0019.526 (0) Table wp_wpdatatables_columns: Total expected rows (approximate): 4
+0019.529 (0) Table wp_wpdatatables_columns: Total rows added: 4 in 0.00 seconds
+0019.530 (0) Table wp_wpdatatables_columns: finishing file (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_wpdatatables_columns.table.gz - 0.8 KB)
+0019.536 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_options.table.gz (1/15): adding to final database dump
+0019.578 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_users.table.gz (2/15): adding to final database dump
+0019.588 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_usermeta.table.gz (3/15): adding to final database dump
+0019.591 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_commentmeta.table.gz (4/15): adding to final database dump
+0019.594 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_comments.table.gz (5/15): adding to final database dump
+0019.595 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_links.table.gz (6/15): adding to final database dump
+0019.597 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_postmeta.table.gz (7/15): adding to final database dump
+0019.610 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_posts.table.gz (8/15): adding to final database dump
+0019.805 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_term_relationships.table.gz (9/15): adding to final database dump
+0019.807 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_term_taxonomy.table.gz (10/15): adding to final database dump
+0019.809 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_termmeta.table.gz (11/15): adding to final database dump
+0019.811 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_terms.table.gz (12/15): adding to final database dump
+0019.812 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_wpdatacharts.table.gz (13/15): adding to final database dump
+0019.814 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_wpdatatables.table.gz (14/15): adding to final database dump
+0019.815 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db-table-wp_wpdatatables_columns.table.gz (15/15): adding to final database dump
+0019.817 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db.gz: finished writing out complete database file (848 KB)
+0019.826 (0) Total database tables backed up: 15 (backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db.gz, size: 905247, checksum (SHA1): b4155807fd2f8f77c535fc06cad34061ce13251b)
+0019.835 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0019.836 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0019.838 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0019.839 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-others.zip: others: This file has not yet been successfully uploaded: will queue
+0019.841 (0) backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db.gz: db: This file has not yet been successfully uploaded: will queue
+0019.842 (0) Saving backup history. Total backup size: 44.7 MB
+0019.846 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0019.851 (0) Cloud backup selection (1/1): none (last)
+0019.852 (0) No remote despatch: user chose no remote backup service
+0019.855 (0) Recording as successfully uploaded: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-plugins.zip (28f231c261a0fd796056eec52d1587ee)
+0019.863 (0) Recording as successfully uploaded: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-themes.zip (7f4f7c3122ff3bc1b9d8def71b4d9129)
+0019.870 (0) Recording as successfully uploaded: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-uploads.zip (54d8593d7084df752694a6ca2d6b7ae0)
+0019.882 (0) Recording as successfully uploaded: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-others.zip (3dd2ad4528a232a97ede00e0534da489)
+0019.888 (0) Recording as successfully uploaded: backup_2017-01-10-2002_Samurai_Tech_Corp_cdad053f7aff-db.gz (3799056f5f920513764e330be3c521b8)
+0019.896 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0019.898 (0) Number of backup sets in history: 3; groups (db): 1
+0019.899 (0) Examining (for databases) backup set with group_id=0, nonce=cdad053f7aff, datestamp=1484078534 (Jan 10 2017 20:02:14)
+0019.900 (0) This backup set is the backup set just made, so will not be deleted.
+0019.901 (0) Examining (for databases) backup set with group_id=0, nonce=9caa9208842b, datestamp=1483721951 (Jan 06 2017 16:59:11)
+0019.902 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.904 (0) Examining (for databases) backup set with group_id=0, nonce=c87b461a333b, datestamp=1483721654 (Jan 06 2017 16:54:14)
+0019.905 (0) 1483721654: db: this set includes a database (backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-db.gz); db count is now 2
+0019.915 (0) 1483721654: db: over retain limit (2); will delete this database
+0019.916 (0) Delete file: backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-db.gz, service=none
+0019.917 (0) Deleting local copy (backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-db.gz)
+0019.921 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0019.923 (0) Number of backup sets in history: 3; groups (files): 1
+0019.924 (0) Examining (for files) backup set with nonce=cdad053f7aff, datestamp=1484078534 (Jan 10 2017 20:02:14)
+0019.925 (0) This backup set is the backup set just made, so will not be deleted.
+0019.926 (0) This backup set is the backup set just made, so will not be deleted.
+0019.926 (0) This backup set is the backup set just made, so will not be deleted.
+0019.927 (0) This backup set is the backup set just made, so will not be deleted.
+0019.927 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.928 (0) Examining (for files) backup set with nonce=9caa9208842b, datestamp=1483721951 (Jan 06 2017 16:59:11)
+0019.929 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0019.931 (0) Examining (for files) backup set with nonce=c87b461a333b, datestamp=1483721654 (Jan 06 2017 16:54:14)
+0019.932 (0) plugins: over retain limit (2); will delete this file entity
+0019.933 (0) themes: over retain limit (2); will delete this file entity
+0019.935 (0) uploads: over retain limit (2); will delete this file entity
+0019.936 (0) others: over retain limit (2); will delete this file entity
+0019.937 (0) Delete file: backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-plugins.zip, service=none
+0019.938 (0) Deleting local copy (backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-plugins.zip)
+0019.940 (0) Delete file: backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-themes.zip, service=none
+0019.941 (0) Deleting local copy (backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-themes.zip)
+0019.942 (0) Delete file: backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-uploads.zip, service=none
+0019.944 (0) Deleting local copy (backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-uploads.zip)
+0019.945 (0) Delete file: backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-others.zip, service=none
+0019.946 (0) Deleting local copy (backup_2017-01-06-1654_Samurai_Tech_Corp_c87b461a333b-others.zip)
+0019.950 (0) This backup set is now empty; will remove from history
+0019.951 (0) Deleting log file (log.c87b461a333b.txt)
+0019.952 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0019.957 (0) Resume backup (cdad053f7aff, 0): finish run
+0019.960 (0) Decremented the semaphore (fd) by 1
+0019.963 (0) Semaphore (fd) unlocked
+0019.964 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0019.969 (0) No email will/can be sent - the user has not configured an email address.
+0019.970 (0) The backup apparently succeeded and is now complete

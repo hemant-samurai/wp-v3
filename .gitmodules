@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/wp-migrate-db"]
+	path = wp-content/plugins/wp-migrate-db
+	url = https://github.com/wp-plugins/wp-migrate-db.git
